@@ -1,0 +1,6 @@
+C:\Users\ANGELLY CASTAÑO\Desktop\Universidad\SFW2\TalentosBackend\ReglasNegocio\bin\Debug\ReglasNegocio.dll
+C:\Users\ANGELLY CASTAÑO\Desktop\Universidad\SFW2\TalentosBackend\ReglasNegocio\bin\Debug\ReglasNegocio.pdb
+C:\Users\ANGELLY CASTAÑO\Desktop\Universidad\SFW2\TalentosBackend\ReglasNegocio\obj\Debug\ReglasNegocio.csprojAssemblyReference.cache
+C:\Users\ANGELLY CASTAÑO\Desktop\Universidad\SFW2\TalentosBackend\ReglasNegocio\obj\Debug\ReglasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ANGELLY CASTAÑO\Desktop\Universidad\SFW2\TalentosBackend\ReglasNegocio\obj\Debug\ReglasNegocio.dll
+C:\Users\ANGELLY CASTAÑO\Desktop\Universidad\SFW2\TalentosBackend\ReglasNegocio\obj\Debug\ReglasNegocio.pdb
